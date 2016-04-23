@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  erb :coming_soon
+  "Hello World"
 end
